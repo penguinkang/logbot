@@ -1,5 +1,5 @@
 PyGithub==1.51
-Flask==1.1.2
+Flask==2.3.2
 line-bot-sdk
 werkzeug
 boto3
